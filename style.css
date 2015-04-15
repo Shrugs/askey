@@ -63,4 +63,10 @@ header .brand {
 
 .description p {
   font-size: 1.5em;
+  margin-bottom: 50px;
+}
+
+.download {
+  height: 100px;
+  margin: 0 auto;
 }
