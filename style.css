@@ -1,0 +1,66 @@
+body {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+     font-weight: 300;
+}
+
+header {
+  text-align: center;
+}
+
+header .cont {
+  margin: 0 auto;
+  display: inline-block;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+header .logo {
+  float: left;
+  height: 80px;
+}
+
+header .brand {
+  margin-left: 20px;
+  font-size: 4em;
+  float: left;
+}
+
+.iphone-cont {
+  position: relative;
+}
+
+.iphone {
+  width: 362px;
+  font-size: 3px;
+  font-family: monospace;
+  font-weight: bold;
+  padding: 0;
+  background-color: inherit;
+  border: none;
+  color: black;
+}
+
+.video {
+  position: absolute;
+  left: 39px;
+  top: 80px;
+  width: 313px;
+}
+
+.video video {
+  width: 100%;
+  height: 100%;
+}
+
+.description {
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.description h1 {
+  font-weight: bold;
+}
+
+.description p {
+  font-size: 1.5em;
+}
