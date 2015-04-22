@@ -4,6 +4,11 @@ body {
   padding-top:30px;
 }
 
+.container-fluid{
+  display:flex;
+  align-items:center;
+}
+
 header {
   text-align: center;
 }
@@ -67,6 +72,6 @@ header .cont {
 }
 
 .download {
-  height: 100px;
+  height: 80px;
   margin: 0 auto;
 }
