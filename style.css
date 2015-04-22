@@ -1,6 +1,7 @@
 body {
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
      font-weight: 300;
+  padding-top:16px;
 }
 
 header {
@@ -15,14 +16,14 @@ header .cont {
 }
 
 .logo {
-  float: left;
+  
   height: 80px;
 }
 
 .brand {
   margin-left: 20px;
   font-size: 4em;
-  float: left;
+ 
 }
 
 .iphone-cont {
