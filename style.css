@@ -14,12 +14,12 @@ header .cont {
   margin-bottom: 20px;
 }
 
-header .logo {
+.logo {
   float: left;
   height: 80px;
 }
 
-header .brand {
+.brand {
   margin-left: 20px;
   font-size: 4em;
   float: left;
