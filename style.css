@@ -5,8 +5,8 @@ body {
 }
 
 .container-fluid{
-  display:flex;
-  align-items:center;
+  display:flex !important;
+  align-items:center !important;
 }
 
 header {
